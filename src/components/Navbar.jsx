@@ -6,9 +6,9 @@
 const navItems = [
   { name: "Home", href: "/" },
   { name: "Blog", href: "/blog" },
-  { name: "Spotify", href: "/spotify" },
-  { name: "Resources", href: "/resources" },
   { name: "Projects", href: "/projects" },
+  { name: "Resources", href: "/resources" },
+  { name: "Spotify", href: "/spotify" },
 ];
 
 
