@@ -3,7 +3,6 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Projects from './components/Projects';
 import Blog from './components/Blog';
-import Snippets from './components/Snippets';
 import Footer from './components/Footer';
 
 function App() {
@@ -17,7 +16,6 @@ function App() {
           <Hero />
           <Projects />
           <Blog />
-          <Snippets />
         </main>
         <Footer />
       </div>
